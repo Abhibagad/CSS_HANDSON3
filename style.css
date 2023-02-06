@@ -128,7 +128,7 @@ body{
   .fruit{
     position: absolute;
     border: 2px solid black;
-    width: 400px;
+    width: 360px;
     height: 250px;
     top: 50px;
     background-color:burlywood;
@@ -141,7 +141,7 @@ body{
   .vegetable{
     position: absolute;
     border: 2px solid black;
-    width: 400px;
+    width: 355px;
     height: 250px;
     top: 50px;
     left: 425px;
@@ -155,7 +155,7 @@ body{
   .other{
     position: absolute;
     border: 2px solid black;
-    width: 830px;
+    width: 750px;
     height: 260px;
     top: 320px;
     background-color:burlywood;
